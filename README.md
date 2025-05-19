@@ -99,5 +99,5 @@ This repository contains my SQL solutions to the [LeetCode SQL 50 study plan](ht
 
 ---
 
-## 🗂 Folder Structure
+
 
